@@ -221,7 +221,7 @@ server.js
 
 Clone the repository:
 
-git clone https://github.com/your-username/temple-booking-system.git
+git clone https://github.com/Santosh-kumar-sah/DarshanEaseMandir/tree/TempleBooking
 
 Install dependencies:
 
