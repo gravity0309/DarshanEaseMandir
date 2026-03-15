@@ -171,7 +171,7 @@ function Landing() {
           <div className="col-md-3">
             <img
               className="gallery-img"
-              src="https://images.unsplash.com/photo-1623238913973-21e3e6bdfc90"
+              src="https://media.istockphoto.com/id/1174372687/photo/somnath-temple-facade-gujarat.jpg?s=612x612&w=0&k=20&c=CQ3GvCigMhrsHGdxagJuxDDVdN2S3m-TwvJ95-hy5lA="
             />
           </div>
 
